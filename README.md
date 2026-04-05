@@ -1,7 +1,10 @@
 # Titanic Survival Analysis
 
 ## Proje Amacı
-Bu projede Titanic yolcularının hayatta kalmasını etkileyen faktörler veri analizi yöntemleri kullanılarak incelenmiştir. Amaç, veri keşfi (EDA), eksik veri yönetimi ve aykırı değer analizi ile yolcu özelliklerinin survival üzerindeki etkisini anlamaktır.
+Bu projede Titanic yolcularının hayatta kalmasını etkileyen faktörler veri analizi yöntemleri ile incelenmiştir.
+
+##Amaç
+Amaç, yolcu özelliklerinin (cinsiyet, sınıf, yaş vb.) hayatta kalma üzerindeki etkisini analiz etmektir
 
 ## Veri Seti
 Kaynak: Kaggle Titanic Dataset  
@@ -37,6 +40,10 @@ Survival oranları grup bazında analiz edildi.
 - Fare
 
 Dağılım ve istatistiksel özet incelendi.
+
+👉 Kadın yolcuların hayatta kalma oranı erkeklere göre belirgin şekilde daha yüksektir
+👉 Üst sınıf yolcuların hayatta kalma ihtimali daha yüksektir
+👉 Daha genç yolcuların hayatta kalma oranı daha yüksektir
 
 ### 5. Aykırı Değer Analizi
 IQR yöntemi kullanılarak aykırı değer tespiti yapıldı.
