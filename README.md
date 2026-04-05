@@ -42,7 +42,9 @@ Survival oranları grup bazında analiz edildi.
 Dağılım ve istatistiksel özet incelendi.
 
 👉 Kadın yolcuların hayatta kalma oranı erkeklere göre belirgin şekilde daha yüksektir
+
 👉 Üst sınıf yolcuların hayatta kalma ihtimali daha yüksektir
+
 👉 Daha genç yolcuların hayatta kalma oranı daha yüksektir
 
 ### 5. Aykırı Değer Analizi
