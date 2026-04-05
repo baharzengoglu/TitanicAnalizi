@@ -3,8 +3,8 @@
 ## Proje Amacı
 Bu projede Titanic yolcularının hayatta kalmasını etkileyen faktörler veri analizi yöntemleri ile incelenmiştir.
 
-##Amaç
-Amaç, yolcu özelliklerinin (cinsiyet, sınıf, yaş vb.) hayatta kalma üzerindeki etkisini analiz etmektir
+## Amaç
+Yolcu özelliklerinin (cinsiyet, sınıf, yaş vb.) hayatta kalma üzerindeki etkisini analiz etmektir.
 
 ## Veri Seti
 Kaynak: Kaggle Titanic Dataset  
